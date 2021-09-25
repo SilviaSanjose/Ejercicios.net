@@ -1,0 +1,16 @@
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\bin\Debug\net5.0\Ejercicios.net.exe
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\bin\Debug\net5.0\Ejercicios.net.deps.json
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\bin\Debug\net5.0\Ejercicios.net.runtimeconfig.json
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\bin\Debug\net5.0\Ejercicios.net.runtimeconfig.dev.json
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\bin\Debug\net5.0\Ejercicios.net.dll
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\bin\Debug\net5.0\ref\Ejercicios.net.dll
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\bin\Debug\net5.0\Ejercicios.net.pdb
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\obj\Debug\net5.0\Ejercicios.net.csproj.AssemblyReference.cache
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\obj\Debug\net5.0\Ejercicios.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\obj\Debug\net5.0\Ejercicios.net.AssemblyInfoInputs.cache
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\obj\Debug\net5.0\Ejercicios.net.AssemblyInfo.cs
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\obj\Debug\net5.0\Ejercicios.net.csproj.CoreCompileInputs.cache
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\obj\Debug\net5.0\Ejercicios.net.dll
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\obj\Debug\net5.0\ref\Ejercicios.net.dll
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\obj\Debug\net5.0\Ejercicios.net.pdb
+C:\Users\x51095016\Documents\Apuntes\Ejercicios.net\Ejercicios.net\obj\Debug\net5.0\Ejercicios.net.genruntimeconfig.cache
